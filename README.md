@@ -38,7 +38,7 @@
 | **MediaPipe** | Gesture-based Control |
 
 ## 🎥 Demo Video
-[Click here to watch the project demo on YouTube](رابط_الفيديو_هنا)
+[Click here to watch the project demo on YouTube](https://youtu.be/lxm90lPVQtA?si=FSbfOdHdeuhm76vO)
 
 ## 👤 Author
 **Zahraa Ahmed Abdul-Hamza Al-Shammary** | Cybersecurity Engineering Student
@@ -75,7 +75,7 @@
 | **MediaPipe** | التحكم بالإيماءات |
 
 ## 🎥 فيديو توضيحي
-[اضغطي هنا لمشاهدة فيديو العرض على يوتيوب](رابط_الفيديو_هنا)
+[اضغط هنا لمشاهدة فيديو العرض على يوتيوب](https://youtu.be/lxm90lPVQtA?si=FSbfOdHdeuhm76vO)
 
 ## 👤 المؤلفة
 **زهراء أحمد عبد الحمزة الشمري** | طالبة هندسة أمن سيبراني
@@ -83,7 +83,7 @@
 🔗 LinkedIn: *جاري الإضافة قريباً*
 
 ---
-
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ## 📄 License
 This project is presented for educational purposes only. All rights reserved © 2026 Zahra Ahmed Abdul-Hamza Al-Shammari.
 </div>
