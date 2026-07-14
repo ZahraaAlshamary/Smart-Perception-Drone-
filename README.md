@@ -19,6 +19,10 @@
 ## 📖 Overview
 **Drone Al-Idrak** is an advanced autonomous security system engineered to enhance search and rescue efficiency. The entire flight control and image processing logic are centralized on the laptop, enabling seamless control via keyboard or hand gestures. The system ensures high-level privacy through real-time encryption of all transmitted data.
 
+<img src="DRONE .jpg" alt="Drone Image" width="100%"/>
+
+
+
 ## 🎯 Key Features
 - ✅ **Centralized Control:** Full flight and processing logic managed via laptop (Keyboard/Arrows & Hand Gestures).
 - ✅ **Autonomous Search:** Upon server activation and target upload, the drone initiates autonomous flight.
@@ -26,6 +30,12 @@
 - ✅ **Intelligent Identification:** Captures a high-resolution snapshot once the drone's target matches the pre-loaded image.
 - ✅ **Real-time Streaming:** Continuous live video feed from the drone to the laptop.
 - ✅ **Precision Flight:** Implemented **PID Controller** for smooth stability and **Kalman Filter** for accurate target tracking.
+
+
+<img src="DRONE2.jpg" alt="Drone Image" width="100%"/>
+
+
+
 
 ## 🛠️ Technologies
 | Technology | Purpose |
@@ -39,6 +49,10 @@
 
 ## 🎥 Demo Video
 [Click here to watch the project demo on YouTube](https://youtu.be/lxm90lPVQtA?si=FSbfOdHdeuhm76vO)
+
+
+<img src="HAND.jpg" alt="Drone Image" width="100%"/>
+
 
 ## 👤 Author
 **Zahraa Ahmed Abdul-Hamza Al-Shammary** | Cybersecurity Engineering Student
