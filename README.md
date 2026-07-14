@@ -8,7 +8,7 @@
 
 # 🚁 Drone Al-Idrak (Smart Perception Drone)
 
-<img src="DRONE .jpg" alt="Drone Image" width="600"/>
+<img src="drone d.jpg" alt="Drone Image" width="100%"/>
 
 **An AI-powered autonomous drone system for search and rescue operations with integrated data encryption.**
 
